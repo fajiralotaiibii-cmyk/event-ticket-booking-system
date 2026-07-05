@@ -2,6 +2,7 @@
 A robust desktop-based event management and ticketing platform designed to streamline event planning, user management, and ticket booking. This project follows strict Object-Oriented Programming (OOP) principles and implements a clean MVC architecture.
 
 🚀 Key Features
+
 Role-Based Access Control (RBAC): Distinct dashboards for Administrators, Event Managers, and Customers.
 
 Event Lifecycle Management: Create, update, and cancel events with real-time seat tracking.
