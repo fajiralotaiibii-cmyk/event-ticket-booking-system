@@ -33,4 +33,5 @@ GUI Hierarchy
 
 The system provides a seamless navigation flow starting from a secure login screen, branching into role-specific dashboards with intuitive data tables to manage entities.
 
-📸 Project Snapshots
+## 📄 Documentation
+For a comprehensive overview of the system design, database schema, and source code explanation, please refer to the full project report attached in this repository: [Event_Ticket_Booking_System_Report.pdf](Event_Ticket_Booking_System_Report.pdf).
